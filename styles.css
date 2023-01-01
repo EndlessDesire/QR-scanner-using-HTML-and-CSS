@@ -11,7 +11,7 @@ body{
     align-items: center;
     font-size: 15px;
 }
-.container{
+main{
     max-width: 360px;
     margin: 0 auto;
 }
@@ -31,7 +31,7 @@ border-radius: 12px;
     padding: 22px 10px;
     
 }
-.text h2{
+.text h1{
     color:hsl(218, 44%, 22%) ;
     padding-bottom: 15px;
 }
